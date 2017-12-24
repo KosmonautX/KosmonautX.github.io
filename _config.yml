@@ -16,13 +16,13 @@ description              : "quarks 2 quasars"
 url                      : "https://kosmonautx.github.io"
 baseurl                  : ""/bits"
 repository               : "KosmonautX/kosmonautx.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : https://https-kosmonautx-github-io.disqus.com/admin/
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 
 # SEO Related
 google_site_verification :
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bala"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "KIC 8462852"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -249,6 +249,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
