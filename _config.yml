@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "A.Vivekbala"
 description              : "quarks 2 quasars"
 url                      : "https://kosmonautx.github.io"
-baseurl                  : ""/bits"
+baseurl                  : "/bits"
 repository               : "KosmonautX/kosmonautx.github.io"
 teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
