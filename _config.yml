@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "A.Vivekbala"
 description              : "quarks 2 quasars"
 url                      : "https://kosmonautx.github.io"
-baseurl                  : "/bits"
+baseurl                  : #null
 repository               : "KosmonautX/kosmonautx.github.io"
 teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
@@ -61,12 +61,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "BalalaSlamJamma"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/site-logo.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "Bala"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "KIC 8462852"
-  email            :
+  location         : "North Korea"
+  email            : "avivekbala@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -100,15 +100,15 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "paradox_bala"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : "balad" #(the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "BalalaSlamJamma"
   vine             :
   weibo            :
   xing             :
@@ -182,7 +182,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
