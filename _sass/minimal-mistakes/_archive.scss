@@ -73,11 +73,12 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    -webkit-filter: grayscale(100%) blur(3px);
+	filter: grayscale(100%) blur(3px);
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    -webkit-transform: scale(1.05);
   }
 }
 
