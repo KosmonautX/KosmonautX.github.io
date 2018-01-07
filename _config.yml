@@ -18,7 +18,7 @@ baseurl                  : #null
 repository               : "KosmonautX/kosmonautx.github.io"
 teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Bala"
   avatar           : "/assets/images/bio-photo.gif"
-  bio              : "I am an amazing person."
+  bio              : "stay woke"
   location         : "North Korea"
   email            : "avivekbala@gmail.com"
   uri              :
@@ -110,7 +110,7 @@ author:
   tumblr           :
   twitter          : "BalalaSlamJamma"
   vine             :
-  weibo            :
+  weibo            : "p/1005056445789846"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
