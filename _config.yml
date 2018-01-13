@@ -18,11 +18,11 @@ baseurl                  : #null
 repository               : "KosmonautX/kosmonautx.github.io"
 teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 150
+words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : https://https-kosmonautx-github-io.disqus.com/admin/
+    shortname            : "https://https-kosmonautx-github-io.disqus.com/admin/"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -54,7 +54,7 @@ atom_feed:
 search                   : true
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google045f5cf95c70b465"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -76,9 +76,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-112400598-1"
 
 
 # Site Author
@@ -250,5 +250,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
