@@ -8,7 +8,7 @@ header:
 categories:
   - Cosmos
 toc: true
-toc_label: "Navigation Panel"
+toc_label: "Navigational Panel"
 toc_icon: "user-secret"
 
 tags:
@@ -72,7 +72,9 @@ By then, real-life Tony Stark, Elon Musk and Jeff Bezos, the founder of Amazon.c
 
 ### Vectors of Infection
 
-Planet-bound civilizations not only impose limitations on the material enlargement of civilization, it also places us a species in a precarious spot. We reside in an inter-galactic neighbourhood that is dynamic and has a couple of definite ways to sterilize the thin film of life inhabiting the surface and countless more theoretical ones. When it comes to destruction of worlds we also happen to be our worst enemy. Nations possess thousands of nuclear warheads capable of occasioning an existential catastrophe, and we are at the liberty of a fairly fragile global ecosystem as we belch greenhouse gases to fuel our ever-increasing needs and wants. It could be argued there is a moral imperative to act on behalf of life of which we are at least the bearers, if not the sole possessors, to act as its dispersal vector. Neil Armstrong’s first words on the Moon was a massive understatement, it was as significant a step as that our amphibian cousins took 400 million years ago onto land. Being a spacefaring civilization is the first step toward assuring the durability of civilization and our visibility to natural selection on a cosmological scale. Making life multi-planetary was the vision that transmogrified a spreadsheet into the SpaceX that would re-enact a sophisticated parody of David and the Goliath.
+Planet-bound civilizations not only impose limitations on the material enlargement of civilization, it also places us a species in a precarious spot. We reside in an inter-galactic neighbourhood that is dynamic and has a couple of definite ways to sterilize the thin film of life inhabiting the surface and countless more theoretical ones. When it comes to destruction of worlds we also happen to be our worst enemy. Nations possess thousands of nuclear warheads capable of occasioning an existential catastrophe, and we are at the liberty of a fairly fragile global ecosystem as we belch greenhouse gases to fuel our ever-increasing needs and wants. 
+
+It could be argued there is a moral imperative to act on behalf of life of which we are at least the bearers, if not the sole possessors, to act as its dispersal vector. Life since it's inception has reached out to cover every niche it can. Neil Armstrong’s first words on the Moon were a massive understatement, that step was as significant as the one our amphibian cousins took 400 million years ago onto land. Being a spacefaring civilization is the first step toward assuring the durability of civilization and our visibility to natural selection on a cosmological scale. This vision of making life multi-planetary was one that would transmogrify a spreadsheet into the SpaceX, which would re-enact a sophisticated parody of David and the Goliath.
 
 > “After analyzing the sanctions against our space industry, I suggest to the USA to bring their astronauts to the International Space Station using a trampoline.” --- RUSSIAN DEPUTY PRIME MINISTER DMITRY ROGOZIN, AFTER U.S SANCTIONS PRECIPITATED BY THE UKRAINIAN CRISIS
 
