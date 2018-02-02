@@ -26,7 +26,7 @@ tags:
 
 [‘beep-beep’](http://www.dd1us.de/sounds/DL3PD%20Alois%20-%2001%20-%20Sputnik%201%20first%20satellite%20reduced.mp3), a sound of wonder and disquietude reverberated, literally and figuratively; across the skies as even amateur radio operators tuned in to listen in on the transmissions @ 20.005MHz. The Pravda christened it as an ‘artificial moon’ one that had scaled up the terrestrial gravity well, which had bound humanity to this Pale Blue Dot. Alan Shepard had just graduated from the Naval War College. John F. Kennedy was still a junior senator from Massachusetts. Yuri A. Gagarin was an unremarkable Russian military pilot. While the ‘father of rocket technology’: Wernher von Braun was working on the Jupiter ballistic missiles. Little did these men know this unpretentious small sphere would manage to capture human imagination and paranoia: metastasizing in the global consciousness and cast a very large shadow indeed. A new era of exploration was about to dawn. It was the 4th of October 1957 and the Soviets had just launched the Sputnik.
 
-### Coursing through our Veins
+### humanity, got odyssey inside my DNA
 
 The history of humanity has always hung onto a timeline of exploration. For millennia, since modern humans emerged in the horn of Africa we were wanderers. We meandered past vast landmasses, across forbidden seas and narrow straits, down rolling valleys in search of plentiful game and congenial climates. The impetus to explore has had unmistakable survival value. As the last ice age ended and the ice thawed, we settled down marking the beginnings of the Neolithic Age. We domesticated plants animals, and in turn they domesticated us.
 
