@@ -7,4 +7,4 @@ env:
 
 install:
   - bundle
-script: jgd -u http://KosmonautX:$PASSWORD@github.com/KosmonautX/blog.git
+script: jgd -u http://KosmonautX:$PASSWORD@github.com/KosmonautX.github.io.git
