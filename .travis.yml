@@ -1,0 +1,10 @@
+branches:
+  only:
+    - master
+env:
+  global:
+    - secure: "lsEKcwFrsPun+l//6Zl8TSd9689UIym8UE5KeZfjSMFDjhvtrtzz0/nXKJnaxPrZT0UztmEialZttd7uCZ3oxhBCdN/w+/f9ACD2t275y5jmlX8SURkQ5YwNq+ZtsQLIJWLPuwxuQHKBs5Mqz1BF12X8jgUS7MJG2kLw529XlpRDIHlGtohMA3t1EzTto3qJAwprLi5MdGi4Pg+l209RRHEpEwfUxy52C/NDPR0vsYsyo17JJBnG5FYesTisVueRUvD5NN5MWNQhQkXRsdKMb/rvXg+aYC9g91Qgnl1hg4dHTcdNIBoKQx9+Nk2KUYLl1FkCZqX4/Kt9fiAzarc+cEC9uuDBF9K98NdbJVstmEfe8Kj/wwgeRaMIFTBrCf5tg8AMAgyZBRNt/ZsFH8SJW0CPpKs8azdCXTINmj9Bqh3ENG9DutKa4cv/zR4OiWr/U3OzjTFQ93AQBeEuOJHBAkI6Jvus5InhvnJ2Tmlc6TQjLbdlpkxaoif90sbvZuh5aHm09j2TbJzhFURS1/SNze0LRx2k6YxB5hAofS7gWzyhOsT8gKMNzildoh03+JhGkzv06tsLp38FTnTT4WWGC/sJxPJpDyUZdAvt1b18nuOY7GnHXZ8VCkcdE3XVSyheLHkRZtScMEOORYbdXxPc1dQijIxPs3qhtqOtoUkyePo="
+
+install:
+  - bundle
+script: jgd -u http://KosmonautX:$PASSWORD@github.com/KosmonautX/blog.git
