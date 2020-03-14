@@ -18,7 +18,7 @@ baseurl                  : #null
 repository               : "KosmonautX/kosmonautx.github.io"
 teaser                   : /favicon/android-chrome-512x512.png
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 300
+words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Bala"
-  avatar           : "/assets/images/bio-photo.gif"
+  avatar           : "/assets/images/twainandtesla.jpg"
   bio              : ""
   location         : "singapore"
   email            : "avivekbala@gmail.com"

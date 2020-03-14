@@ -1,9 +1,9 @@
 ---
 title: "All Watched Over By Machines Of Loving Grace"
 header:
-  image: /assets/images/hooked_in.jpg
-  teaser: /assets/images/hooked_in.jpg
-  og_image: /assets/images/hooked_in.jpg
+  image: /assets/images/hal_9000.jpg
+  teaser: /assets/images/hal_9000.jpg
+  og_image: /assets/images/hal_9000.jpg
 categories:
   - Sapiens
   
