@@ -23,7 +23,7 @@ var idx = lunr(function () {
       title: "All Watched Over By Machines Of Loving Grace",
       excerpt: "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its...",
       categories: ["Sapiens"],
-      tags: ["sapiens","techne"],
+      tags: ["techne"],
       id: 1
     });
     
