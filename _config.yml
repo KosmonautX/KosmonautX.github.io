@@ -12,17 +12,17 @@ locale                   : "en"
 title                    : "bit/s"
 title_separator          : "-"
 name                     : "A.Vivekbala"
-description              : "stay woke"
+description              : "བག་ཡོད་པ།"
 url                      : "https://kosmonautx.github.io"
 baseurl                  : #null
-repository               : "KosmonautX/kosmonautx.github.io"
+repository               : "KosmonautX/KosmonautX.github.io/tree/master"
 teaser                   : /favicon/android-chrome-512x512.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "https-kosmonautx-github-io"
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -30,6 +30,8 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : "github-light" # "github-light" (default), "github-dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -76,16 +78,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-112400598-1"
 
 
 # Site Author
 author:
-  name             : "Bala"
+  name             : "Vivekbala"
   avatar           : "/assets/images/twainandtesla.jpg"
-  bio              : ""
+  bio              : "vayadhammā saṅkhārā appamādena sampādethāti"
   location         : "singapore"
   email            : "avivekbala@gmail.com"
   uri              :

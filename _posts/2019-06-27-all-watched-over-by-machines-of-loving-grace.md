@@ -8,7 +8,6 @@ categories:
   - Sapiens
   
 tags:
-  sapiens
   techne
 
 ---
