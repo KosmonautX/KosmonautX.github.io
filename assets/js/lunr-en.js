@@ -76,66 +76,66 @@ var store = [
       
       {
         "title": "Sirens in the Cosmic Fugue",
-        "url": "http://localhost:4000/cosmos/sirens-in-the-cosmic-fugue/",
+        "url": "https://kosmonautx.github.io/cosmos/sirens-in-the-cosmic-fugue/",
         "excerpt": "Create vessels and sails adjusted to the heavenly ether, and there will be plenty of people unafraid of the empty...",
         "teaser":
           
-            "http://localhost:4000/assets/images/earthrise.jpg"
+            "https://kosmonautx.github.io/assets/images/earthrise.jpg"
           
       },
     
       
       {
         "title": "All Watched Over By Machines Of Loving Grace",
-        "url": "http://localhost:4000/sapiens/all-watched-over-by-machines-of-loving-grace/",
+        "url": "https://kosmonautx.github.io/sapiens/all-watched-over-by-machines-of-loving-grace/",
         "excerpt": "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its...",
         "teaser":
           
-            "http://localhost:4000/assets/images/hal_9000.jpg"
+            "https://kosmonautx.github.io/assets/images/hal_9000.jpg"
           
       },
     
       
       {
         "title": "The Hacker Known as 4chan",
-        "url": "http://localhost:4000/sapiens/the-hacker-known-as-4chan/",
+        "url": "https://kosmonautx.github.io/sapiens/the-hacker-known-as-4chan/",
         "excerpt": "Once, Zhuang Zhou dreamed he was a butterfly, a butterfly flitting and fluttering about, happy with himself and doing as...",
         "teaser":
           
-            "http://localhost:4000/assets/images/4chan.jpg"
+            "https://kosmonautx.github.io/assets/images/4chan.jpg"
           
       },
     
       
       {
         "title": "Too soon to say",
-        "url": "http://localhost:4000/sapiens/confucius-says/",
+        "url": "https://kosmonautx.github.io/sapiens/confucius-says/",
         "excerpt": "Let A Hundred Flowers Bloom; Let A Hundred Schools Of Thought Contend — Mao Zedong, Hundred Flowers Movement In the...",
         "teaser":
           
-            "http://localhost:4000/assets/images/tiananmen_square.jpg"
+            "https://kosmonautx.github.io/assets/images/tiananmen_square.jpg"
           
       },
     
       
       {
         "title": "Ocean",
-        "url": "http://localhost:4000/sapiens/ocean/",
+        "url": "https://kosmonautx.github.io/sapiens/ocean/",
         "excerpt": "Now I a fourfold vision see And a fourfold vision is given to me:Tis fourfold in my supreme delight,And threefold...",
         "teaser":
           
-            "http://localhost:4000/assets/images/ocean.jpg"
+            "https://kosmonautx.github.io/assets/images/ocean.jpg"
           
       },
     
       
       {
         "title": "Natura Naturans",
-        "url": "http://localhost:4000/sapiens/natura-naturans/",
+        "url": "https://kosmonautx.github.io/sapiens/natura-naturans/",
         "excerpt": "On the mountain they felled my trunk All my schemes come to ‘naught Without shame a troubador am I I...",
         "teaser":
           
-            "http://localhost:4000/assets/images/arboreal-office.jpg"
+            "https://kosmonautx.github.io/assets/images/arboreal-office.jpg"
           
       }
     
