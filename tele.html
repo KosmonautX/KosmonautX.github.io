@@ -1,28 +1,80 @@
 
 <!DOCTYPE html>
+<html lang="en"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('/assets/images/oceansky.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+  
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
 
-<html lang="en">
-<head>
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
 <meta charset="utf-8">
 <title>Telegram Widget</title>
 <base target="_blank">
-<style>
-html, body {
-    height: 100%;
-}
 
-body {
-    display: table-cell;
-    vertical-align: middle;
-}
+</head><body>
 
-    </style>
-<body>
-    <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-login="neighbourly2_bot" data-size="medium" data-auth-url="https://i.scratchbac.org/" data-request-access="write"></script>
-    <a id="button" href="sb://deeplink.flutter.dev/">
-Scratchbac here i come lads
-</a>
-
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    <div><img alt="Scratchbac" src="/assets/images/Scratchbac.svg" width="50" height="50"></div>
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">Telegram Login</h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center">
+    <iframe id="telegram-login-neighbourly2_bot" src="https://oauth.telegram.org/embed/neighbourly2_bot?origin=https%3A%2F%2Fkosmonautx.github.io&amp;size=medium&amp;request_access=write" scrolling="no" style="overflow: hidden; border: medium none; height: 28px; width: 212px;" width="186" height="28" frameborder="0"></iframe>
+    </p><p class="w3-large w3-center">
+<a id="button" style="vertical-align:middle" class="button" href="sb://deeplink.flutter.dev/?auth_date=1622197160&amp;first_name=Jordan&amp;hash=945540e5753c84ad7a1257adc820205e399a2428745411ccd034740181b5fe4a&amp;id=595028413&amp;last_name=Tay&amp;photo_url=lol&amp;username=j0rdantay"><span>Return to Scratchbac</span></a></p>
+    <p></p>
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">Scratchbac</a> Telegram Login
+  </div>
+</div>
 <script>
 const queryString = window.location.search;
  // get the link element        
