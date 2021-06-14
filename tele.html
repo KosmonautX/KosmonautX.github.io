@@ -68,7 +68,7 @@ body, html {height: 100%}
     <p class="w3-large w3-center">
     <iframe id="telegram-login-neighbourly2_bot" src="https://oauth.telegram.org/embed/neighbourly2_bot?origin=https%3A%2F%2Fkosmonautx.github.io&amp;size=medium&amp;request_access=write" scrolling="no" style="overflow: hidden; border: medium none; height: 28px; width: 212px;" width="186" height="28" frameborder="0"></iframe>
     </p><p class="w3-large w3-center">
-<a id="button" style="vertical-align:middle" class="button" href="sb://deeplink.flutter.dev/?auth_date=1622197160&amp;first_name=Jordan&amp;hash=945540e5753c84ad7a1257adc820205e399a2428745411ccd034740181b5fe4a&amp;id=595028413&amp;last_name=Tay&amp;photo_url=lol&amp;username=j0rdantay"><span>Return to Scratchbac</span></a></p>
+<a id="button" style="vertical-align:middle" class="button" href="sb://deeplink.flutter.dev/"><span id="returning" style="font-size: 14px;">Return to Scratchbac</span></a></p>
     <p></p>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
@@ -79,10 +79,18 @@ body, html {height: 100%}
 const queryString = window.location.search;
  // get the link element        
  var myLink = document.getElementById("button");
-
+ var telebutton = document.getElementById("telegram-login-neighbourly2_bot");
+  
  // edit its href property by appending the parameters
  myLink.href += queryString;
-
+  
+ if(queryString.length < 10)
+ {myLink.style.visibility = "hidden";
+ }
+  else 
+  {telebutton.style.visibility="hidden";
+   window.location.replace("sb://deeplink.flutter.dev/"+ queryString);
+  }
  //check
  console.log(myLink.href);
 </script>
