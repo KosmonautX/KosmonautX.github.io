@@ -65,7 +65,7 @@ body, html {height: 100%}
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top">Telegram Login</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">
+    <p class="w3-large w3-center" id="byebyebye">
     <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-login="neighbourly2_bot" data-size="medium" data-auth-url="https://i.scratchbac.org/" data-request-access="write"></script>
     </p><p class="w3-large w3-center">
 <a id="button" style="vertical-align:middle" class="button" href="sb://deeplink.flutter.dev/"><span id="returning" style="font-size: 14px;">Return to Scratchbac</span></a></p>
@@ -80,7 +80,7 @@ const queryString = window.location.search;
  // get the link element        
  var myLink = document.getElementById("button");
  var telebutton = document.getElementById("telegram-login-neighbourly2_bot");
- var widget = document.getElementById("widget_login")
+ var widget = document.getElementById("byebyebye")
   
  // edit its href property by appending the parameters
  myLink.href += queryString;
