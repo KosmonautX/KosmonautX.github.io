@@ -82,7 +82,7 @@ const queryString = window.location.search;
  var widget = document.getElementById("byebyebye")
   
  // edit its href property by appending the parameters
- myLink.href += queryString;
+ myLink.href += queryString +"&source=telegram";
   
  if(queryString.length < 10)
  {myLink.style.visibility = "hidden";
