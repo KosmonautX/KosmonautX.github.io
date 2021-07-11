@@ -60,7 +60,7 @@ body, html {height: 100%}
 
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
   <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    <div><img alt="Scratchbac" src="/assets/images/Scratchbac.svg" width="50" height="50"></div>
+    <div><a id="fyrbye" href="https://www.scratchbac.com/"><img alt="Scratchbac" src="/assets/images/Scratchbac.svg" width="50" height="50"></a></div>
   </div>
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top">Telegram Login</h1>
@@ -80,6 +80,8 @@ const queryString = window.location.search;
  // get the link element        
  var myLink = document.getElementById("button");
  var widget = document.getElementById("byebyebye")
+ var fyrdynamiclink = document.getElementById("fyrbye")
+ fyrdynamiclink.href = "https://angora.page.link/?" + encodeURIComponent("link=https://angora.com/test?"+queryString +"&source=telegram&apn=com.scratchbac.angora&efr=1")
   
  // edit its href property by appending the parameters
  myLink.href += queryString +"&source=telegram";
