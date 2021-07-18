@@ -68,7 +68,7 @@ body, html {height: 100%}
     <p class="w3-large w3-center" id="byebyebye">
     <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-login="neighbourly2_bot" data-size="medium" data-auth-url="https://i.scratchbac.org/" data-request-access="write"></script>
     </p><p class="w3-large w3-center">
-<a id="button" style="vertical-align:middle" class="button" href="sb://deeplink.flutter.dev/"><span id="returning" style="font-size: 30px;">Return to Scratchbac</span></a></p>
+<a id="button" style="vertical-align:middle" class="button" href="https://angora.page.link/?link="><span id="returning" style="font-size: 30px;">Return to Scratchbac</span></a></p>
     <p></p>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
@@ -84,7 +84,7 @@ const queryString = window.location.search;
  fyrdynamiclink.href = "https://angora.page.link/?link=" + encodeURIComponent("https://angora.com/test"+queryString +"&source=telegram") + "&apn=com.example.scratchbac_flutter&isi=1576818413&ibi=com.scratchbac.v1"
   
  // edit its href property by appending the parameters
- myLink.href += queryString +"&source=telegram";
+ myLink.href += encodeURIComponent("https://angora.com/test"+queryString +"&source=telegram") + "&apn=com.example.scratchbac_flutter&isi=1576818413&ibi=com.scratchbac.v1";
   
  if(queryString.length < 10)
  {myLink.style.visibility = "hidden";
