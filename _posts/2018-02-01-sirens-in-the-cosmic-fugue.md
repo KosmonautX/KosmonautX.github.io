@@ -19,8 +19,10 @@ tags:
   universe
   humanity
 ---
-> Create vessels and sails adjusted to the heavenly ether, and there will be plenty of people unafraid of the empty wastes. In the meantime, we shall prepare, for the brave skytravellers, maps of the celestial bodies – I shall do it for the moon, you Galileo, for Jupiter ––– JOHANNES KEPLER, LETTER TO GALILEO GALILEI, APRIL 1610
 
+
+> Create vessels and sails adjusted to the heavenly ether, and there will be plenty of people unafraid of the empty wastes. In the meantime, we shall prepare, for the brave skytravellers, maps of the celestial bodies – I shall do it for the moon, you Galileo, for Jupiter <br>
+––– Johannes Kepler, Letter to Galileo Galilei,  April 1610
 
 ## Cold War’s Celestial Chariots
 
